@@ -1,0 +1,16 @@
+C:\Users\ujasi\source\repos\DataManagementAPI_Dapper_Swagger\DataManagement.Business\bin\Debug\netcoreapp2.1\DataManagement.Business.deps.json
+C:\Users\ujasi\source\repos\DataManagementAPI_Dapper_Swagger\DataManagement.Business\bin\Debug\netcoreapp2.1\DataManagement.Business.dll
+C:\Users\ujasi\source\repos\DataManagementAPI_Dapper_Swagger\DataManagement.Business\bin\Debug\netcoreapp2.1\DataManagement.Business.pdb
+C:\Users\ujasi\source\repos\DataManagementAPI_Dapper_Swagger\DataManagement.Business\bin\Debug\netcoreapp2.1\DataManagement.Business.Interfaces.dll
+C:\Users\ujasi\source\repos\DataManagementAPI_Dapper_Swagger\DataManagement.Business\bin\Debug\netcoreapp2.1\DataManagement.Entities.dll
+C:\Users\ujasi\source\repos\DataManagementAPI_Dapper_Swagger\DataManagement.Business\bin\Debug\netcoreapp2.1\DataManagement.Repository.Interfaces.dll
+C:\Users\ujasi\source\repos\DataManagementAPI_Dapper_Swagger\DataManagement.Business\bin\Debug\netcoreapp2.1\DataManagement.Business.Interfaces.pdb
+C:\Users\ujasi\source\repos\DataManagementAPI_Dapper_Swagger\DataManagement.Business\bin\Debug\netcoreapp2.1\DataManagement.Entities.pdb
+C:\Users\ujasi\source\repos\DataManagementAPI_Dapper_Swagger\DataManagement.Business\bin\Debug\netcoreapp2.1\DataManagement.Repository.Interfaces.pdb
+C:\Users\ujasi\source\repos\DataManagementAPI_Dapper_Swagger\DataManagement.Business\obj\Debug\netcoreapp2.1\DataManagement.Business.csprojAssemblyReference.cache
+C:\Users\ujasi\source\repos\DataManagementAPI_Dapper_Swagger\DataManagement.Business\obj\Debug\netcoreapp2.1\DataManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\ujasi\source\repos\DataManagementAPI_Dapper_Swagger\DataManagement.Business\obj\Debug\netcoreapp2.1\DataManagement.Business.AssemblyInfoInputs.cache
+C:\Users\ujasi\source\repos\DataManagementAPI_Dapper_Swagger\DataManagement.Business\obj\Debug\netcoreapp2.1\DataManagement.Business.AssemblyInfo.cs
+C:\Users\ujasi\source\repos\DataManagementAPI_Dapper_Swagger\DataManagement.Business\obj\Debug\netcoreapp2.1\DataManagement.Business.csproj.CopyComplete
+C:\Users\ujasi\source\repos\DataManagementAPI_Dapper_Swagger\DataManagement.Business\obj\Debug\netcoreapp2.1\DataManagement.Business.dll
+C:\Users\ujasi\source\repos\DataManagementAPI_Dapper_Swagger\DataManagement.Business\obj\Debug\netcoreapp2.1\DataManagement.Business.pdb
